@@ -1,3 +1,3 @@
 # project
 
-的Java的动态代理
+Java的动态代理
